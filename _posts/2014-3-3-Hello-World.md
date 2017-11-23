@@ -1,0 +1,8 @@
+----
+-layout: post
+-title: Welcome to Will Not Settle
+----
+-
+- Hello World!
+-
+-![_config.yml]({{ site.baseurl }}/images/WNSpic.jpg)
