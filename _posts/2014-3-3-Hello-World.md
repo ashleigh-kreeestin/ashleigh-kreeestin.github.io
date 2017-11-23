@@ -1,7 +1,7 @@
-----
+---
 layout: post
-title: Welcome to Will Not Settle
-----
+title: Will Not Settle
+---
 
  Hello World!
 
