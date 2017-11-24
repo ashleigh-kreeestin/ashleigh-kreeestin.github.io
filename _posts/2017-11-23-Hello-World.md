@@ -13,7 +13,7 @@ So...
 
 •	If you find that your love life is lacking and you want more dates to find that unique love you’re looking for
 
-•	That you are basically content but just can't help but feel that something is missing and you want more out of your one life. 
+•	That you are basically content but just can't help but feel that something is missing and you want more out of your one life 
 
 •	If you desire more confidence at work, in your relationships, with your family
 
